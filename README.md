@@ -18,3 +18,16 @@ git clone https://github.com/AppleJuice87/chess-project-c.git
 - C99
 - Visual Studio 2022
 - Win Api
+
+## How to Play
+- WASD : Move
+- M : Go to menu page
+- Enter : Place chess horse & Press a button
+
+## Showcase
+<img src="/images/chess_menu.png">
+
+
+<img src="/images/chess_game.png">
+
+
