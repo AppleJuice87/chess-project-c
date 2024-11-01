@@ -25,9 +25,9 @@ git clone https://github.com/AppleJuice87/chess-project-c.git
 - Enter : Place chess horse & Press a button
 
 ## Showcase
-<img src="/images/chess_menu.png">
+<img src="/resources/chess_menu.png">
 
 
-<img src="/images/chess_game.png">
+<img src="/resources/chess_game.png">
 
 
