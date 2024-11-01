@@ -1,0 +1,15 @@
+﻿  color.c
+  file.c
+  game.c
+  main.c
+C:\Users\mjapp\iCloudDrive\Archive\대학과제\대학과제_2023_1-2\C프로젝트\C Final Project\Chess_Project\game.c(105,17): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\mjapp\iCloudDrive\Archive\대학과제\대학과제_2023_1-2\C프로젝트\C Final Project\Chess_Project\game.c(142,17): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\mjapp\iCloudDrive\Archive\대학과제\대학과제_2023_1-2\C프로젝트\C Final Project\Chess_Project\game.c(534,5): warning C4013: 'print_cursor_on_the_board'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\mjapp\iCloudDrive\Archive\대학과제\대학과제_2023_1-2\C프로젝트\C Final Project\Chess_Project\game.c(574,17): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  pages.c
+C:\Users\mjapp\iCloudDrive\Archive\대학과제\대학과제_2023_1-2\C프로젝트\C Final Project\Chess_Project\pages.c(69,13): warning C4013: 'print_cursor_on_the_board'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\mjapp\iCloudDrive\Archive\대학과제\대학과제_2023_1-2\C프로젝트\C Final Project\Chess_Project\pages.c(141,5): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\mjapp\iCloudDrive\Archive\대학과제\대학과제_2023_1-2\C프로젝트\C Final Project\Chess_Project\pages.c(171,5): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  print.c
+  코드를 생성하고 있습니다...
+  Chess_Project.vcxproj -> C:\Users\mjapp\iCloudDrive\Archive\대학과제\대학과제_2023_1-2\C프로젝트\C Final Project\Chess_Project\x64\Debug\Chess_Project.exe
