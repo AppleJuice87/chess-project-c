@@ -25,7 +25,7 @@ git clone https://github.com/AppleJuice87/chess-project-c.git
 - Enter : Place chess horse & Press a button
 
 ## Showcase
-[![Video Label](http://img.youtube.com/vi/XSj3Qo9SThk/0.jpg)](https://youtu.be/XSj3Qo9SThk)
+https://youtu.be/XSj3Qo9SThk
 
 <img src="/resources/chess_menu.png">
 
